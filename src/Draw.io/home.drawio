@@ -1,0 +1,508 @@
+<mxfile host="app.diagrams.net" modified="2023-08-22T21:09:48.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="MMas1ZyzynFMTxDG4jrl" version="21.6.8" type="device">
+  <diagram name="Page-1" id="J_QGx3Kxm0ipwew9tZq9">
+    <mxGraphModel dx="2288" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g2kspoFdz66y3IR5VLWs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="90" width="1050" height="6190" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-190" y="120" width="995" height="6140" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="150" width="930" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="175" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="175" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-7" value="Mnen" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="195" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-8" value="Women" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="195" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-9" value="Kind" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="195" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-10" value="H&amp;amp;L" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="195" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-11" value="Beauty" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="195" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-12" value="studio" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="195" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-13" value="Logo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="195" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-14" value="Profile" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="195" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-15" value="Wishlist" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="195" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-16" value="Bag" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="690" y="195" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="190" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="200" width="190" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-20" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="200" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-165" y="286" width="940" height="1864" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Offer banner&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="300" width="900" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-27" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Banner Image&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="380" width="910" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Specia; coupoun for you&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-148" y="640" width="910" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-147.5" y="710" width="910" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="740" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="740" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Crazy deal&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="860" width="910" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g2kspoFdz66y3IR5VLWs-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="920" width="910" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="940" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="940" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="940" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="940" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="940" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="940" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="1100" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1100" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="1100" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1100" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="1100" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1100" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-15" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Shop by Categiry&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="1280" width="910" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="1340" width="910" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="1730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="1730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="395" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-53" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Download now (Banner)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="1940" width="910" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="2170" width="950" height="3980" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="2180" width="930" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-56" value="online shoping (list)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-147.5" y="2190" width="167.5" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-57" value="Custumer policy (list)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="36.25" y="2190" width="167.5" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="2190" width="270" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="2220" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="2290" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="2350" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="2430" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="2455" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="2455" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="2455" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="2455" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="2365" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="2365" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="2190" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="2200" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="2280" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="2215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="2295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="2215" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="2295" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="2790" width="930" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-147.5" y="2800" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-80" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;list&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-147.5" y="2840" width="897.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="2950" width="897.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-82" value="In case of any concern,&amp;nbsp;&lt;a style=&quot;box-sizing: inherit; background-color: rgba(112, 187, 255, 0.03); text-decoration-line: none; color: rgb(82, 108, 208); font-weight: 700; font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: medium; text-align: start; border-color: rgb(255, 105, 180) !important; outline: rgba(255, 105, 180, 0.25) solid 1px !important;&quot; data-reactid=&quot;322&quot; href=&quot;https://www.myntra.com/contactus&quot;&gt;Contact Us&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="2960" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-85" value="©&amp;nbsp;&lt;span style=&quot;color: rgb(255, 105, 180); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: medium; text-align: end; background-color: rgba(112, 187, 255, 0.03);&quot;&gt;2023&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 105, 180); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: medium; text-align: end; background-color: rgba(112, 187, 255, 0.03);&quot;&gt;&amp;nbsp;www.myntra.com. All rights reserved.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="2960" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-86" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="3100" width="930" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="3120" width="870" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="3160" width="870" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-89" value="Buildings Alyssa,&lt;br style=&quot;box-sizing: inherit; color: rgb(255, 105, 180); background-color: rgba(112, 187, 255, 0.03); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; border-color: rgb(255, 105, 180) !important; outline: rgba(255, 105, 180, 0.25) solid 1px !important;&quot; data-reactid=&quot;332&quot;&gt;&lt;span style=&quot;color: rgb(255, 105, 180); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; background-color: rgba(112, 187, 255, 0.03);&quot;&gt;Begonia and Clover situated in Embassy Tech Village,&lt;/span&gt;&lt;br style=&quot;box-sizing: inherit; color: rgb(255, 105, 180); background-color: rgba(112, 187, 255, 0.03); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; border-color: rgb(255, 105, 180) !important; outline: rgba(255, 105, 180, 0.25) solid 1px !important;&quot; data-reactid=&quot;334&quot;&gt;&lt;span style=&quot;color: rgb(255, 105, 180); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; background-color: rgba(112, 187, 255, 0.03);&quot;&gt;Outer Ring Road,&lt;/span&gt;&lt;br style=&quot;box-sizing: inherit; color: rgb(255, 105, 180); background-color: rgba(112, 187, 255, 0.03); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; border-color: rgb(255, 105, 180) !important; outline: rgba(255, 105, 180, 0.25) solid 1px !important;&quot; data-reactid=&quot;336&quot;&gt;&lt;span style=&quot;color: rgb(255, 105, 180); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; background-color: rgba(112, 187, 255, 0.03);&quot;&gt;Devarabeesanahalli Village,&lt;/span&gt;&lt;br style=&quot;box-sizing: inherit; color: rgb(255, 105, 180); background-color: rgba(112, 187, 255, 0.03); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; border-color: rgb(255, 105, 180) !important; outline: rgba(255, 105, 180, 0.25) solid 1px !important;&quot; data-reactid=&quot;338&quot;&gt;&lt;span style=&quot;color: rgb(255, 105, 180); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; background-color: rgba(112, 187, 255, 0.03);&quot;&gt;Varthur Hobli,&lt;/span&gt;&lt;br style=&quot;box-sizing: inherit; color: rgb(255, 105, 180); background-color: rgba(112, 187, 255, 0.03); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; border-color: rgb(255, 105, 180) !important; outline: rgba(255, 105, 180, 0.25) solid 1px !important;&quot; data-reactid=&quot;340&quot;&gt;&lt;span style=&quot;color: rgb(255, 105, 180); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; background-color: rgba(112, 187, 255, 0.03);&quot;&gt;Bengaluru – 560103, India&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="3170" width="410" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="3170" width="420" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-91" value="CIN: U72300KA2007PTC041799" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="3250" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-92" value="Telephone:&amp;nbsp;&lt;a style=&quot;box-sizing: inherit; background-color: rgba(112, 187, 255, 0.03); text-decoration-line: none; color: rgb(82, 108, 208); font-weight: 700; font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; border-color: rgb(255, 105, 180) !important; outline: rgba(255, 105, 180, 0.25) solid 1px !important;&quot; data-reactid=&quot;346&quot; class=&quot;index-lcTelephone index-highlightText&quot; href=&quot;tel:+918061561999&quot;&gt;+91-80-61561999&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="3280" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-93" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="3360" width="930" height="2760" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-94" value="&lt;span style=&quot;background-color: rgba(112, 187, 255, 0.03); color: rgb(255, 105, 180); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px;&quot;&gt;ONLINE SHOPPING MADE EASY A MYNTRA&lt;/span&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="3380" width="887.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-95" value="If you would like to experience the best of online shopping for men, women and kids in India, you are at the right place. Myntra is the ultimate destination for fashion and lifestyle, being host to a wide array of merchandise including&amp;nbsp;&lt;a style=&quot;box-sizing: inherit; background-color: rgba(112, 187, 255, 0.03); text-decoration-line: none; color: rgb(105, 107, 121); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; text-align: start; border-color: rgb(255, 105, 180) !important; outline: rgba(255, 105, 180, 0.25) solid 1px !important;&quot; href=&quot;https://www.myntra.com/clothing&quot; class=&quot;seolink&quot;&gt;clothing&lt;/a&gt;&lt;span style=&quot;color: rgb(255, 105, 180); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; text-align: start; background-color: rgba(112, 187, 255, 0.03);&quot;&gt;, footwear, accessories, jewellery, personal care products and more. It is time to redefine your style statement with our treasure-trove of trendy items. Our online store brings you the latest in designer products straight out of fashion houses. You can shop online at Myntra from the comfort of your home and get your favourites delivered right to your doorstep.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-141.25" y="3400" width="890" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-97" value="BEST ONLINE SHOPPING SITE IN INDIA FOR FASHION" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="3490" width="890" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-98" value="Be it clothing, footwear or accessories, Myntra offers you the ideal combination of fashion and functionality for men, women and kids. You will realise that the sky is the limit when it comes to the types of outfits that you can purchase for different occasions." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="3520" width="890" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="3600" width="890" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-111.25" y="3620" width="830" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-111.25" y="3680" width="830" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="3740" width="830" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-103" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="3800" width="830" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-104" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="3860" width="830" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-105" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-107.5" y="3920" width="830" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-106" value="Myntra is one of the best online shopping sites in India which could help transform your living spaces completely. Add colour and personality to your bedrooms with bed linen and curtains. Use smart tableware to impress your guest. Wall decor, clocks,&amp;nbsp;&lt;a style=&quot;box-sizing: inherit; background-color: rgba(112, 187, 255, 0.03); text-decoration-line: none; color: rgb(105, 107, 121); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; text-align: start; border-color: rgb(255, 105, 180) !important; outline: rgba(255, 105, 180, 0.25) solid 1px !important;&quot; href=&quot;https://www.myntra.com/photo-frames&quot; class=&quot;seolink&quot;&gt;photo frames&lt;/a&gt;&lt;span style=&quot;color: rgb(255, 105, 180); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; text-align: start; background-color: rgba(112, 187, 255, 0.03);&quot;&gt;&amp;nbsp;and artificial plants are sure to breathe life into any corner of your home.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="4020" width="890" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-107" value="AFFORDABLE FASHION AT YOUR FINGERTIP" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="4120" width="890" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-108" value="&#xa;&lt;p style=&quot;box-sizing: inherit; color: rgb(255, 105, 180); background-color: rgba(112, 187, 255, 0.03); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border-color: rgb(255, 105, 180) !important; outline: rgba(255, 105, 180, 0.25) solid 1px !important;&quot;&gt;Myntra is one of the unique online shopping sites in India where fashion is accessible to all. Check out our new arrivals to view the latest designer clothing, footwear and accessories in the market. You can get your hands on the trendiest style every season in western wear. You can also avail the best of ethnic fashion during all Indian festive occasions. You are sure to be impressed with our seasonal discounts on footwear, trousers, shirts, backpacks and more. The end-of-season sale is the ultimate experience when fashion gets unbelievably affordable.&lt;/p&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="4150" width="890" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-109" value="MYNTRA INSIDER" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="4290" width="890" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-110" value="Every online shopping experience is precious. Hence, a cashless reward-based customer loyalty program called&amp;nbsp;&lt;a style=&quot;box-sizing: inherit; background-color: rgba(112, 187, 255, 0.03); text-decoration-line: none; color: rgb(105, 107, 121); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; text-align: start; border-color: rgb(255, 105, 180) !important; outline: rgba(255, 105, 180, 0.25) solid 1px !important;&quot; href=&quot;https://www.myntra.com/myntrainsider&quot; class=&quot;seolink&quot;&gt;Myntra Insider&lt;/a&gt;&lt;span style=&quot;color: rgb(255, 105, 180); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; text-align: start; background-color: rgba(112, 187, 255, 0.03);&quot;&gt;&amp;nbsp;was introduced to enhance your online experience. The program is applicable to every registered customer and measures rewards in the form of Insider Points.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-141.25" y="4330" width="891.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-111" value="There are four levels to achieve in the program, as the Insider Points accumulate. They are - Insider, Select, Elite or Icon. Apart from offering discounts on Myntra and partner platform coupons, each tier comes with its own special perks." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="4390" width="890" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-112" value="Insider" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="4480" width="890" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-113" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;List 1&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;list 2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="4510" width="890" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-114" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Elit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-141.25" y="4590" width="890" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-115" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;List 1&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;list 2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-141.25" y="4620" width="890" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-116" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;icon&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="4700" width="890" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-117" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;List 1&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;list 2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="4730" width="890" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-118" value="&lt;b&gt;Myntra Studio - The Personalised Fashion Feed You Wouldn’t Want To Miss Out On&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="4800" width="890" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-119" value="The world wide web is evolving at a relentless pace, and with an accelerated growth each passing year, there is bound to be an overwhelming surge of online content. It was for this very reason that personalisation of search feeds was proposed as a solution to combat the overload of irrelevant information." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-141.25" y="4850" width="890" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-120" value="Several social media platforms such as Facebook and Instagram along with various online shopping websites have chosen to help filter content, increasing user engagement, retention and customer loyalty." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-141.25" y="4920" width="890" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-121" value="Myntra is one such online shopping website that joins the list of platforms that help curate a personalised fashion feed. Named theMyntra Studio, this personalised search feed brings you the latest men and women’s fashion trends, celebrity styles, branded content and daily updates from your favourite fashion labels." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-138" y="4980" width="890" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-122" value="If you are wondering how impactful Myntra Studio can be, we are listing out five perks of having a rich, meaningful, and personalised fashion feed in your life." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-135" y="5040" width="890" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-123" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="5100" width="890" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-124" value="list 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="5130" width="840" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-125" value="list 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="5180" width="840" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-126" value="list 3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="5230" width="840" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-127" value="list 4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="5280" width="840" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-128" value="list 5" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="5330" width="840" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-129" value="MYNTRA APP" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="5410" width="880" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-130" value="Myntra, India’s no. 1 online fashion destination justifies its fashion relevance by bringing something new and chic to the table on the daily. Fashion trends seem to change at lightning speed, yet the Myntra shopping app has managed to keep up without any hiccups. In addition, Myntra has vowed to serve customers to the best of its ability by introducing its first-ever loyalty program, The Myntra Insider. Gain access to priority delivery, early sales, lucrative deals and other special perks on all your shopping with the Myntra app. Download the Myntra app on your Android or IOS device today and experience shopping like never before!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="5450" width="880" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-131" value="HISTORY OF MYNTRA" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="5570" width="880" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-132" value="&lt;p style=&quot;box-sizing: inherit; color: rgb(255, 105, 180); background-color: rgba(112, 187, 255, 0.03); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; text-align: start; border-color: rgb(255, 105, 180) !important; outline: rgba(255, 105, 180, 0.25) solid 1px !important;&quot;&gt;Becoming India’s no. 1 fashion destination is not an easy feat. Sincere efforts, digital enhancements and a team of dedicated personnel with an equally loyal customer base have made Myntra the online platform that it is today. The original B2B venture for personalized&amp;nbsp;&lt;a style=&quot;box-sizing: inherit; text-decoration-line: none; color: rgb(105, 107, 121); border-color: rgb(255, 105, 180) !important; outline: rgba(255, 105, 180, 0.25) solid 1px !important;&quot; href=&quot;https://www.myntra.com/gifts&quot; class=&quot;seolink&quot;&gt;gifts&lt;/a&gt;&amp;nbsp;was conceived in 2007 but transitioned into a full-fledged ecommerce giant within a span of just a few years. By 2012, Myntra had introduced 350 Indian and international brands to its platform, and this has only grown in number each passing year. Today Myntra sits on top of the online fashion game with an astounding social media following, a loyalty program dedicated to its customers, and tempting, hard-to-say-no-to deals.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="5610" width="880" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-133" value="&lt;p style=&quot;box-sizing: inherit; color: rgb(255, 105, 180); background-color: rgba(112, 187, 255, 0.03); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; text-align: start; border-color: rgb(255, 105, 180) !important; outline: rgba(255, 105, 180, 0.25) solid 1px !important;&quot;&gt;The Myntra shopping app came into existence in the year 2015 to further encourage customers’ shopping sprees. Download the app on your Android or IOS device this very minute to experience fashion like never before&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="5750" width="880" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-134" value="SHOP ONLINE AT MYNTRA WITH COMPLETE CONVENIENCE" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-133" y="5840" width="880" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-135" value="&lt;p style=&quot;box-sizing: inherit; color: rgb(255, 105, 180); background-color: rgba(112, 187, 255, 0.03); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; text-align: start; border-color: rgb(255, 105, 180) !important; outline: rgba(255, 105, 180, 0.25) solid 1px !important;&quot;&gt;Another reason why Myntra is the best of all online stores is the complete convenience that it offers. You can view your favourite brands with price options for different products in one place. A user-friendly interface will guide you through your selection process. Comprehensive size charts, product information and high-resolution images help you make the best buying decisions. You also have the freedom to choose your payment options, be it card or cash-on-delivery. The 14-day returns policy gives you more power as a buyer. Additionally, the try-and-buy option for select products takes customer-friendliness to the next level.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-133" y="5880" width="880" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-136" value="&lt;p style=&quot;box-sizing: inherit; color: rgb(255, 105, 180); background-color: rgba(112, 187, 255, 0.03); font-family: Assistant, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; text-align: start; border-color: rgb(255, 105, 180) !important; outline: rgba(255, 105, 180, 0.25) solid 1px !important;&quot;&gt;Enjoy the hassle-free experience as you shop comfortably from your home or your workplace. You can also shop for your friends, family and loved-ones and avail our gift services for special occasions.&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-136.25" y="6020" width="880" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-138" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="6310" as="sourcePoint" />
+            <mxPoint x="270" y="6150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="6390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-139" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Footer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="220" y="6380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-140" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="30" as="sourcePoint" />
+            <mxPoint x="25" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-141" value="Main container" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-142" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="30" as="sourcePoint" />
+            <mxPoint x="410" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-143" value="Header" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-144" value="Main body" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="570" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="inpO7xmW9Edm7vIvxbvB-145" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.65;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.828;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="inpO7xmW9Edm7vIvxbvB-144" target="g2kspoFdz66y3IR5VLWs-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="80" as="sourcePoint" />
+            <mxPoint x="650" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
